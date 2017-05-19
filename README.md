@@ -1,2 +1,2 @@
 # CS443
-CSUSM: Database Systems
+CSUSM: Database Management Systems
