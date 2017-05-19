@@ -1,2 +1,2 @@
 # CS443
-CSUSM: Operating Systems
+CSUSM: Database Systems
